@@ -42,7 +42,7 @@ alertmanager:
 
   ## alertmanager container name
   ##
-  name: alertmanager
+  name: alertmanager-pazzii
 
   ## alertmanager container image
   ##
