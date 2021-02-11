@@ -422,7 +422,7 @@ configmapReload:
 kubeStateMetrics:
   ## If false, kube-state-metrics sub-chart will not be installed
   ##
-  enabled: true
+  enabled: false
 
 ## kube-state-metrics sub-chart configurable values
 ## Please see https://github.com/kubernetes/kube-state-metrics/tree/master/charts/kube-state-metrics
